@@ -1,9 +1,11 @@
 # Single-Linked-list
 
-Creation of single linked list
+Insertion − Adds an element at the beginning of the list.
 
-Deletion and insertion of a node at any position.
+Deletion − Deletes an element at the beginning of the list.
 
-Deletion and insertion of a node at begining.
+Display − Displays the complete list.
 
-Deletion and insertion of a node at end.
+Search − Searches an element using the given key.
+
+Delete − Deletes an element using the given key.
