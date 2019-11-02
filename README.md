@@ -1,7 +1,9 @@
 # Single-Linked-list
 
-Deletion and Insertion of node at any position 
+Creation of single linked list
 
-Deletion and Insertion of node begining
+Deletion and insertion of a note at any position.
 
-Deletion and Insertion of node at last
+Deletion and insertion of a note at begining.
+
+Deletion and insertion of a note at end.
